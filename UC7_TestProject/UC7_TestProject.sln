@@ -9,6 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC7_Logic", "UC7_Logic\UC7_
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConversationFiles", "ConversationFiles", "{ABD7C949-F95C-4ABB-A46C-E2CB15F41292}"
 	ProjectSection(SolutionItems) = preProject
+		Create unit tests.txt = Create unit tests.txt
 		Infrastructure setup.txt = Infrastructure setup.txt
 	EndProjectSection
 EndProject
